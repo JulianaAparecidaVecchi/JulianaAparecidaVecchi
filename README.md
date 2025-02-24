@@ -28,7 +28,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/JulianaAparecidaVecchi/JulianaAparecidaVecchi/output/snake.svg" alt="Snake animation" />
-
-###
