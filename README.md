@@ -1,5 +1,7 @@
 <h3 align="left">Hi, I'm Juliana.</h3>
 
+<p>Hi! I'm Juliana Aparecida Vecchi, a 4th-semester Software Engineering student at PUCPR.</p>
+
 ###
 
 <br clear="both">
