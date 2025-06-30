@@ -1,4 +1,4 @@
-<h3 align="left">Hi, I'm Juliana.</h3>
+<h3 align="left">Welcome to my GitHub!</h3>
 
 <p>Hi! I'm Juliana Aparecida Vecchi, a 4th-semester Software Engineering student at PUCPR.</p>
 
