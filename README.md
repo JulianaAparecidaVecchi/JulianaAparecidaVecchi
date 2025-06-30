@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hello World ! I'm Juliana Aparecida Vecchi, a 4th-semester Software Engineering student at PUCPR.</p>
+<p align="left">Hello! I'm Juliana Aparecida Vecchi, a 4th-semester Software Engineering student at PUCPR.</p>
 
 ###
 
