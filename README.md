@@ -1,6 +1,8 @@
 <h1 align="left">Welcome to my GitHub!</h1>
 
-<p>Hi! I'm Juliana Aparecida Vecchi, a 4th-semester Software Engineering student at PUCPR.</p>
+###
+
+<p align="left">Hello World ! I'm Juliana Aparecida Vecchi, a 4th-semester Software Engineering student at PUCPR.</p>
 
 ###
 
@@ -36,9 +38,12 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />Add commentMore actions
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" href="https://www.linkedin.com/in/juliana-aparecida-vecchi/" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" href="https://wa.me/5541997898432" width="52" height="40" alt="whatsapp logo"  />
+  <a href="https://www.linkedin.com/in/juliana-aparecida-vecchi/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://wa.me/5541997898432" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
 </div>
 
 ###
