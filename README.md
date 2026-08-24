@@ -3,8 +3,14 @@
 <p><strong>Estudante de Engenharia de Software</strong></p>
 
 <p>
-  Olá, me chamo Juliana.😊 Estou no 5º período de Engenharia de Software na PUCPR.
-Atualmente, busco minha primeira oportunidade na área de Tecnologia da Informação, com o objetivo de desenvolver e aprender novas habilidades. Tenho grande interesse por assuntos relacionados ao desenvolvimento de software back-end e front-end, além de gestão de projetos, design e arquitetura de software.
+  Olá, me chamo Juliana! 😊 Sou estudante de Engenharia de Software na PUCPR, atualmente no 6º período, e estagiária em Desenvolvimento de Software.
+
+Tenho interesse em desenvolvimento de software e gosto de transformar conhecimentos em projetos e soluções práticas. Atualmente, venho aprimorando minhas habilidades principalmente em Java, Python, SQL, JavaScript, HTML, CSS e Spring Boot, além de conhecimentos em bancos de dados, Git, engenharia de requisitos e arquitetura de software.
+
+Neste perfil, compartilho projetos acadêmicos, pessoais e experimentos desenvolvidos ao longo da minha jornada na tecnologia.
+
+🚀 Estou sempre buscando aprender, desenvolver novas habilidades e evoluir como profissional de software.
+
 </p>
 
 <p>
