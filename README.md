@@ -2,16 +2,17 @@
 
 <p><strong>Estudante de Engenharia de Software</strong></p>
 
-<p>
-  Olá, me chamo Juliana! 😊 Sou estudante de Engenharia de Software na PUCPR, atualmente no 6º período, e estagiária em Desenvolvimento de Software.
+<p>Olá! Me chamo Juliana Aparecida Vecchi! 😊 Sou estudante do 6º período de Engenharia de Software na Pontifícia Universidade Católica do Paraná (PUCPR) e atuo como Estagiária em Desenvolvimento de Software.</p>
 
-Tenho interesse em desenvolvimento de software e gosto de transformar conhecimentos em projetos e soluções práticas. Atualmente, venho aprimorando minhas habilidades principalmente em Java, Python, SQL, JavaScript, HTML, CSS e Spring Boot, além de conhecimentos em bancos de dados, Git, engenharia de requisitos e arquitetura de software.
+<p>Tenho interesse em tecnologia, gestão, projetos, análise de dados, automação de processos e melhoria contínua. Gosto de aprender coisas novas, explorar diferentes áreas do conhecimento e transformar ideias em soluções práticas que possam contribuir para pessoas e organizações.</p>
 
-Neste perfil, compartilho projetos acadêmicos, pessoais e experimentos desenvolvidos ao longo da minha jornada na tecnologia.
+<p>Atualmente, tenho experiência com desenvolvimento e manutenção de sistemas, levantamento de requisitos, organização de informações, criação de dashboards e indicadores, automação de processos e desenvolvimento de soluções para um ERP interno.</p>
 
-🚀 Estou sempre buscando aprender, desenvolver novas habilidades e evoluir como profissional de software.
+<p>Ao longo da minha trajetória acadêmica e profissional, venho desenvolvendo conhecimentos em Java, Python, SQL, JavaScript, HTML, CSS, Spring Boot, bancos de dados, Git, GitHub, engenharia de requisitos, modelagem de processos e arquitetura de software.</p>
 
-</p>
+<p>Neste perfil, compartilho projetos acadêmicos, pessoais e experimentos desenvolvidos ao longo da minha jornada, explorando diferentes tecnologias, ferramentas e possibilidades.</p>
+
+<p>🚀 Estou em constante aprendizado e busco novas oportunidades e desafios que me permitam ampliar meus conhecimentos, desenvolver novas habilidades, compartilhar experiências e evoluir profissionalmente. Acredito no aprendizado contínuo e na importância de estar aberta a novas possibilidades!</p>
 
 <p>
   <a href="https://www.linkedin.com/in/juliana-aparecida-vecchi/" target="_blank">
